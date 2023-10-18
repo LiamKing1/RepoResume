@@ -31,8 +31,8 @@ function PortfolioHome() {
   return (
     <div>
       <Nav />
+      <h1> Portfolio </h1>
       <section>
-        <h1> Portfolio </h1>
         <PortfolioList folio={DUMMY_DATA} />
       </section>
     </div>

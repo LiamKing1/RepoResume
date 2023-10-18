@@ -1,5 +1,5 @@
-import Card from "../card/Card";
-import styleClass from "../card/Card.module.css";
+import Card from "../style/Card";
+import styleClass from "../style/Card.module.css";
 
 function PortfolioItem(props) {
   return (

@@ -1,10 +1,11 @@
-import Nav from "../layout/Nav";
+import ResumeItem from "../components/ResumeItem";
+import AboutResCard from "../style/AboutResCard";
 
 function Resume() {
   return (
     <div>
-      <Nav />
-      <h1> ResumeBuild Component goes here</h1>
+      <ResumeItem />
+      <AboutResCard />
     </div>
   );
 }
