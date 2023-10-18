@@ -1,4 +1,5 @@
 import PortfolioList from "../components/PortfolioList";
+import Nav from "../layout/Nav";
 
 const DUMMY_DATA = [
   {
@@ -28,10 +29,13 @@ const DUMMY_DATA = [
 
 function PortfolioHome() {
   return (
-    <section>
-      <h1> Portfolio </h1>
-      <PortfolioList folio={DUMMY_DATA} />
-    </section>
+    <div>
+      <Nav />
+      <section>
+        <h1> Portfolio </h1>
+        <PortfolioList folio={DUMMY_DATA} />
+      </section>
+    </div>
   );
 }
 

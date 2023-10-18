@@ -1,9 +1,10 @@
 import { Link } from "react-router-dom";
+import styleClass from "./Nav.module.css";
 
 function Nav() {
   return (
-    <header>
-      <div></div>
+    <header className={styleClass.header}>
+      <div> Liam King - Full-Stack Software Engineer </div>
       <nav>
         <ul>
           <li>

@@ -1,0 +1,36 @@
+.card {
+  background-color: white;
+  padding: 2.5rem;
+  margin-right: 2.5rem;
+  margin-top: 2.5rem;
+  border-radius: 40px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  align-items: center;
+  text-align: center;
+  
+}
+
+.actions {
+  margin-top: 2.5rem;
+  text-align: center;
+  /* align-items: center; */
+}
+
+.actions button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #77002e;
+  color: white;
+  padding: 0.5rem 5rem;
+  border: 1px solid #77002e;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-bottom: 2.5rem;
+}
+
+.actions button:hover,
+.actions button:active {
+  background-color: #a50e48;
+  border-color: #a50e48;
+  align-items: center;
+}
