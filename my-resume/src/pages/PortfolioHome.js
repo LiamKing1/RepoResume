@@ -5,8 +5,8 @@ const DUMMY_DATA = [
   {
     id: 1,
     image:
-      "https://drive.google.com/file/d/1arGdC_ThUlzKfSNZvm35-d8VQBWxkHh1/view?usp=share_link",
-    filename: "Animation App",
+      "https://github.com/LiamKing1/SkillBuilder",
+    filename: "Skill Builder",
     details:
       "This project was created in so i could practice building out really animated apps that catch the attention of people all around that world",
   },

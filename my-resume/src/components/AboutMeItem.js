@@ -1,10 +1,12 @@
 import styleClass from "../style/Card.module.css";
 import AboutResCard from "../style/AboutResCard";
 
+import HeadShot from "./HeadShot.jpg";
+
 function AboutMeItem() {
   return (
-    <AboutResCard >
-      <img src="" alt=""></img>
+    <AboutResCard>
+      <img className={styleClass.img} src={HeadShot} alt="Headshot"></img>
       <h1> HEADSHOT </h1>
       <h1> Liam King </h1>
       <span>

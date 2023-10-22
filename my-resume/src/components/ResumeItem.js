@@ -39,7 +39,7 @@ function ResumeItem() {
             <h3>Git</h3>
             <h3>AngularJS</h3>
           </div>
-          <h1> EDUCATION </h1>
+          <h1> EDUCATION & CIRTIFICATIONS </h1>
           <h3>
             {" "}
             <a href="https://www.primeacademy.io/courses/engineering">

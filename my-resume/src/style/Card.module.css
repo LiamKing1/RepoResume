@@ -31,3 +31,9 @@
   border-color: #a50e48;
   align-items: center;
 }
+
+.img {
+  height: auto;
+  width: 30%;
+  max-width: 35%;
+}
