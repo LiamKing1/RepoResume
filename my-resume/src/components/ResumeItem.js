@@ -11,7 +11,7 @@ function ResumeItem() {
           <h1> Liam King </h1>
           <h1> BIO </h1>
           <div>
-            <p>
+            <h2>
               {" "}
               I am driven by the ambition and hope of advancing my career and
               providing for my family. I am passionate about learning new
@@ -21,7 +21,7 @@ function ResumeItem() {
               space. I seek opportunities to network, collaborate, and grow with
               others who share the same enthusiasm and dedication for what they
               do as myself.
-            </p>
+            </h2>
           </div>
           <div>
             <h1> TECHNICAL SKILLS </h1>
@@ -64,17 +64,23 @@ function ResumeItem() {
           <div>
             <ul>
               <li>
-                Collaborate with junior and senior developers to design and
-                implement new features in preparation for the company’s BETA
-                release
+                <h3>
+                  Collaborate with junior and senior developers to design and
+                  implement new features in preparation for the company’s BETA
+                  release
+                </h3>
               </li>
               <li>
-                Enhance user experience through the buildout of the frontend
-                using ReactJS and NextJS and their various libraries
+                <h3>
+                  Enhance user experience through the buildout of the frontend
+                  using ReactJS and NextJS and their various libraries
+                </h3>
               </li>
               <li>
-                Conduct debugging and problem solving assessments during weekly
-                stand-up and code reviews
+                <h3>
+                  Conduct debugging and problem solving assessments during
+                  weekly stand-up and code reviews
+                </h3>
               </li>
             </ul>
           </div>
@@ -93,19 +99,25 @@ function ResumeItem() {
           <div>
             <ul>
               <li>
-                Gained skills in program engineering with a dedicated focus on
-                modern technologies such as JavaScript, ReactJS, NodeJS,
-                Express, SQL and API integration
+                <h3>
+                  Gained skills in program engineering with a dedicated focus on
+                  modern technologies such as JavaScript, ReactJS, NodeJS,
+                  Express, SQL and API integration
+                </h3>
               </li>
               <li>
-                Exercised public speaking skills through courses in professional
-                development along with real-world client work and project
-                presentation
+                <h3>
+                  Exercised public speaking skills through courses in
+                  professional development along with real-world client work and
+                  project presentation
+                </h3>
               </li>
               <li>
-                Proactively developed strong and healthy peer relationships
-                while in collaboration for the completion of various projects
-                with an emphasis on nonviolent communication
+                <h3>
+                  Proactively developed strong and healthy peer relationships
+                  while in collaboration for the completion of various projects
+                  with an emphasis on nonviolent communication
+                </h3>
               </li>
             </ul>
           </div>

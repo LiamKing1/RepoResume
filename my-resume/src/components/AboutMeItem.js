@@ -28,7 +28,7 @@ function AboutMeItem() {
           <button> Send Me an Email </button>
         </a>
       </span> */}
-      <p>
+      <h3>
         At StoryForge, I build innovative and engaging web applications as a
         software engineer, using React.js, Redux.js, CSS, and other
         technologies. I collaborate with a team of talented and passionate
@@ -55,7 +55,7 @@ function AboutMeItem() {
         quality within the tech space. I seek opportunities to network,
         collaborate, and grow with others who share the same enthusiasm and
         dedication for what they do.
-      </p>
+      </h3>
     </AboutResCard>
   );
 }

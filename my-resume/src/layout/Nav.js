@@ -8,7 +8,10 @@ function Nav() {
       <nav>
         <ul>
           <li>
-            <Link to="/"> Portfolio </Link>
+            <Link to="/"> Home </Link>
+          </li>
+          <li>
+            <Link to="/Portfolio"> Portfolio </Link>
           </li>
           <li>
             <Link to="/Resume"> Resume </Link>
