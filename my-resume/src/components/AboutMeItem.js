@@ -1,4 +1,5 @@
-import styleClass from "../style/Card.module.css";
+// import styleClass from "../style/Card.module.css";
+import styleClass from "../style/AboutResCard.module.css";
 import AboutResCard from "../style/AboutResCard";
 
 import HeadShot from "./HeadShot.jpg";

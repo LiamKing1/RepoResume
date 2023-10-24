@@ -32,3 +32,9 @@
     border-color: #a50e48;
     align-items: center;
   }
+
+  .img {
+    height: auto;
+    width: 100%;
+    max-width: 500px;
+  }
