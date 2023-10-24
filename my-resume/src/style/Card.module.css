@@ -1,12 +1,18 @@
 .card {
   background-color: white;
+  height: auto;
   padding: 2.5rem;
   margin-right: 2.5rem;
   margin-top: 2.5rem;
+  margin-inline: auto;
   border-radius: 40px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
   align-items: center;
   text-align: center;
+  display: grid;
+  max-width: 25rem;
+  padding-inline: 24px;
+  gap: 24px;
 }
 
 .actions {
@@ -34,6 +40,12 @@
 
 .img {
   height: auto;
-  width: 30%;
-  max-width: 35%;
+  width: 100%;
+  max-width: auto;
+  max-height: auto;
+  object-fit: fill;
 }
+
+/* .column {
+display: inline-block;
+} */

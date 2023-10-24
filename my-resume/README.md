@@ -13,3 +13,5 @@ I created this Resume app to give all potential employers access to up-to-date p
 once all dependencies are installed, next
 
 - run 'npm start'
+
+npm install --save-dev @babel/plugin-proposal-private-property-in-object
